@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/-Ravikishore/static/css/main.ff02f4b5.css",
+    "main.js": "/-Ravikishore/static/js/main.6189a348.js",
+    "static/js/453.3d6bc39d.chunk.js": "/-Ravikishore/static/js/453.3d6bc39d.chunk.js",
+    "index.html": "/-Ravikishore/index.html",
+    "main.ff02f4b5.css.map": "/-Ravikishore/static/css/main.ff02f4b5.css.map",
+    "main.6189a348.js.map": "/-Ravikishore/static/js/main.6189a348.js.map",
+    "453.3d6bc39d.chunk.js.map": "/-Ravikishore/static/js/453.3d6bc39d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff02f4b5.css",
+    "static/js/main.6189a348.js"
+  ]
+}
